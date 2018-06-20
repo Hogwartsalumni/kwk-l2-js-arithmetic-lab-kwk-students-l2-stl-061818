@@ -15,4 +15,4 @@ let randomNumber = Math.random();
 
 let randomInteger = Math.floor(randomNumber);
 
-let randomUserID = randomNumber + 1000000001;
+let randomUserID = Math.max(1000000020), Math.min(1000000001)
