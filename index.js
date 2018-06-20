@@ -11,4 +11,4 @@ let newID = 1000000000 + oldID
 
 let ageIsValid = Number.isInteger(currentAge) 
 
-let randonNumber = >0, <20;
+let randonNumber
