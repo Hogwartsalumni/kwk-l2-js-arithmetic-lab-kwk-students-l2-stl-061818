@@ -15,6 +15,4 @@ let randomNumber = Math.random()
 
 let randomInteger = Math.floor(randomNumber)
 
-let randomUserID >= randomNumber + 1000000001
-let randomUserID <= randomNumber + 1000000020
-
+let randomUserID = randomNumber + 1000000001
