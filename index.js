@@ -15,5 +15,5 @@ let randomNumber = Math.random()
 
 let randomInteger = Math.floor(randomNumber)
 
-let numberIsInteger = 
+let numberIsInteger = Number.isInteger()
 //let randomUserID = 
