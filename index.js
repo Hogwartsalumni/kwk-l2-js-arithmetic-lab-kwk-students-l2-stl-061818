@@ -9,8 +9,8 @@ You should NOT try to redefine any of the above variables.
 // Write your code below this line!
 let newID = 1000000000 + oldID
 
-if currentAgeIsInteger {
-  True;
+if (currentAgeIsInteger) {
+  True
 } else {
-  ageIsNotValid;
+  
 }
